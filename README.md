@@ -11,4 +11,4 @@ Danqing.with(this)
         .into(iamgeView);
 ```
 
-![Preview](https://upload-images.jianshu.io/upload_images/1122883-533a82f3f75699f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Preview](https://upload-images.jianshu.io/upload_images/1122883-533a82f3f75699f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
